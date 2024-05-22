@@ -66,10 +66,10 @@ Hint
 You can check your values against mine using this table:
 
       Name 1	      Name 2	         Score
-1) Brad Pitt           Jennifer Aniston       73
-2) Prince William      Kate Middleton         67
-3) Ashton Kutcher      Mila Kunis             63
-4) Angela Yu           Jack Bauer             53
-5) David Beckham       Victoria Beckham       45
-6) Mario Princess      Peach                  43
-7) Kanye West          Kim Kardashian	    42
+1) Brad Pitt ,           Jennifer Aniston ,       73
+2) Prince William ,      Kate Middleton ,         67
+3) Ashton Kutcher ,      Mila Kunis ,             63
+4) Angela Yu ,           Jack Bauer ,             53
+5) David Beckham ,       Victoria Beckham ,       45
+6) Mario Princess ,      Peach ,                  43
+7) Kanye West ,          Kim Kardashian ,         42
